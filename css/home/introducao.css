@@ -1,6 +1,6 @@
 .introducao-bg {
   background: var(--cor-12);
-  box-shadow: inset 0px -120px var(--cor-0); /* Adicionando sombra para vazar em baixo para dar 120 de altura na foto de baixo pra cima*/
+  box-shadow: inset 0 -120px var(--cor-0);
 }
 
 .introducao {
@@ -33,7 +33,7 @@
   .introducao-bg {
     background: var(--cor-11);
     padding-top: 40px;
-    box-shadow: inset -60 var(--cor-0);
+    box-shadow: inset 0 -60px #ffffff;
   }
   .introducao {
     grid-template-columns: 1fr;

@@ -15,16 +15,16 @@
 @import "./home/depoimento.css";
 
 /* Bicicletas */
-@import "/css/bicicletas/bicicletas-lista.css";
-@import "/css/bicicletas/bicicletas.css";
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 
-/* Bicicleta*/
-@import "/css/bicicleta/bicicleta.css";
+/* Bicicleta */
+@import "./bicicleta/bicicleta.css";
 
 /* Seguros */
-@import "./home/seguros/seguros.css";
-@import "./home/seguros/vantagens.css";
-@import "./home/seguros/perguntas.css";
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /* Termos */
 @import "./termos/termos.css";

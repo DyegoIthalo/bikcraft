@@ -47,9 +47,9 @@
   display: flex;
   align-items: center;
   background-color: var(--cor-12);
+  gap: 8px;
   padding: 4px 8px;
   border-radius: 4px;
-  gap: 8px;
 }
 
 .bicicleta-conteudo h2 {
