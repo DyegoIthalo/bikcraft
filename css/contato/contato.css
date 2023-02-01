@@ -67,7 +67,7 @@
   padding-left: 28px;
 }
 
-@media (max-width: 800) {
+@media (max-width: 800px) {
   .contato {
     grid-template-columns: 1fr;
   }
